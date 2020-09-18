@@ -1,0 +1,14 @@
+{
+  "name": "abs-chat-sdk",
+  "version": "0.0.3",
+  "description": "Chat JavaScript SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Team ABS",
+  "license": "UNLICENSED"
+}
